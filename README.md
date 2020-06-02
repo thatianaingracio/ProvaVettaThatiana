@@ -19,19 +19,23 @@ O Capybara é uma ferramenta (framework) escrita em Ruby que facilita a simulaç
 
 # Plano de Teste
 
-**Caso de Teste: Acessar Página**
+**Caso de Teste 1: Acessar Página**
 
 * Acessar Página Home do Site: Página home será exibida
 
-**Caso de Teste: Cadastrar Login**
+**Caso de Teste 2: Cadastrar Login**
 
 * Criar Novo Login de Acesso: Login de Acesso Criado com Sucesso
 	- Informar email válido
 	- Preencher os campos do formulário de cadastro
 	- Submeter o cadastro
 
-**Logar com Login Válido**
+**Caso de Teste 3: Logar com Login Válido**
 
 * Logar na Página: Área da conta acessada com sucesso
 	- Informar email válido
 	- Informar senha correspondente ao email
+
+**Resultados**
+
+https://github.com/thatianaingracio/ProvaVettaThatiana/blob/master/provaVettaThatiana.png
