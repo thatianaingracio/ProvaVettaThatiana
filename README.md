@@ -35,3 +35,7 @@ O Capybara é uma ferramenta (framework) escrita em Ruby que facilita a simulaç
 * Logar na Página: Área da conta acessada com sucesso
 	- Informar email válido
 	- Informar senha correspondente ao email
+
+**Resultados**
+
+https://github.com/thatianaingracio/ProvaVettaThatiana/blob/master/provaVettaThatiana.png
