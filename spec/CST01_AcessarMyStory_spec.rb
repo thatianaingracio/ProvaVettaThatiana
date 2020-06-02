@@ -1,5 +1,5 @@
 
-describe 'CASE 1: Acessar Página My Story' :case1 do
+describe 'CASE 1: Acessar Página My Story', :case1 do
 
     it 'Acessar o Site' do
 

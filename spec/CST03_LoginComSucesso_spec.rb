@@ -1,4 +1,4 @@
-describe 'Efetuar Login de Acesso' :case3 do
+describe 'Efetuar Login de Acesso', :case3 do
 
     it 'Login Com Sucesso' do
 
